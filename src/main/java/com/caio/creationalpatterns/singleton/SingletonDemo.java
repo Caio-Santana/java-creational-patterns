@@ -1,6 +1,6 @@
 package com.caio.creationalpatterns.singleton;
 
-public class DbSingletonDemo {
+public class SingletonDemo {
 
     public static void main(String[] args) {
         DbSingleton instance = DbSingleton.getInstance();
